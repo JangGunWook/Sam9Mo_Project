@@ -9,11 +9,11 @@
 <br>
 
 ## ⭐ 주요 기능
-<div><a href="https://blog.naver.com/zhsksrjsdnr"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a></div>
+<div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a></div>
 1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash
 2. Stock Page :  금일 식사의 영영정보 및 calorie 섭취량 시각화 자료를 통해 확인 가능
 3. News Page : 금일, 주별 운동별 calorie소모량을 시각화 자료를 통해 확인 가능
-4. 모의투자(dat.net) : 
+4. 모의투자(dat.net) : 모의 투자기능
 
 
 ## ⛏ 기술스택
@@ -26,20 +26,20 @@
         <td>사용언어</td>
         <td>
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> 
+            <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
         </td>
     </tr>
     <tr>
-        <td>라이브러리</td>
+        <td>CI/CD</td>
         <td>
             <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white"/>
         </td>
     </tr>
     <tr>
-        <td>개발도구</td>
+        <td>FrameWork</td>
         <td>
             <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>

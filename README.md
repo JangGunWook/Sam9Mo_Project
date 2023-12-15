@@ -10,9 +10,9 @@
 
 ## ⭐ 주요 기능
 <div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a></div>
-1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash
-2. Stock Page :  금일 식사의 영영정보 및 calorie 섭취량 시각화 자료를 통해 확인 가능
-3. News Page : 금일, 주별 운동별 calorie소모량을 시각화 자료를 통해 확인 가능
+*1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash<br>
+*2. Stock Page : kospi,kosdaq 종목 확인 및 관심종목 추가, 실시간 차트 및 상세현황 확인가능, 알림기능  <br>
+3. News Page : 5개 언론사(조,동,연,YTN,매)의 뉴스를 사회/정치/경제의 3가지 카테고리로 구분하여 뉴스를 확인 할수 있으며 감성분석 현황을 확안할수 있음<br>
 4. 모의투자(dat.net) : 모의 투자기능
 
 

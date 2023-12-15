@@ -9,7 +9,10 @@
 <br>
 
 ## ⭐ 주요 기능
-<div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a></div>
+<div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a>
+<a href="[https://gamma.app/docs/rwly965l5egmmiw](https://youtu.be/vuDowYswqug)"><img src="https://img.shields.io/badge/microsoftyoutube-FF0000?style=flat&logo=youtubet&logoColor=white"/></a>
+    
+</div>
 *1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash<br>
 *2. Stock Page : kospi,kosdaq 종목 확인 및 관심종목 추가, 실시간 차트 및 상세현황 확인가능, 알림기능  <br>
 3. News Page : 5개 언론사(조,동,연,YTN,매)의 뉴스를 사회/정치/경제의 3가지 카테고리로 구분하여 뉴스와 감성분석 현황 확인<br>
@@ -91,29 +94,28 @@
 <br>
 
 ## 🖥 화면 구성
-### 로그인/회원가입
-![로그인 페이지](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/218b75e4-b1fb-487e-9659-45b2d34b2a2c)
+
+### Main Page
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/29cfd843-130d-486e-9f3f-f6b66c360a5a)
+
 <br>
 
-### 회원관리(헬스장의 간략한 현황과 회원리스트 확인)
-![회원관리 페이지](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/84df05b2-f800-455a-8187-31305c51f2fc)
+### Stock(증권) Page
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/0d74077e-ceb5-4837-83f4-29a5b1227b6d)
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/e113d8a3-2567-4a27-8d3c-24735f54c0fe)
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/316f68d0-96ee-4892-8664-4fe988a9e96d)
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/85387111-768d-44c8-abca-8263fc4e4a5c)
+
 <br>
 
-### 트레이너 리스트(헬스장의 모든 트레이너 목록 확인)
-![트레이너 페이지](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/c7b935f5-c21c-40a6-86aa-af289862e268)
+### News(뉴스) Page
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/f0809a9e-d0d8-49b0-bb96-7bbf415deaca)
+
 <br>
 
-### 회원리스트(헬스장의 모든 회원 목록 화인)
-![회원 리스트 페이지](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/fe42945f-2f75-45f1-bdc4-93ddc7f358f8)
+### HTS(Home Trading System)
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/3b5b4025-1f60-494c-ae0a-f50492bdcc85)
 <br>
-
-### 운동페이지(운동리스트, 운동별 소모칼로리, 운동별 시간별 실제 소모 칼로리, 주별 몸무게 변화를 챠트로 확인)
-![운동 페이지](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/c229bdcb-ad25-42f5-81b3-a68a07f00f8a)
-<br>
-
-### 식단페이지(하루 섭취 전체 음식 리스트/섭취 칼로리/영양성분, 시간대별 섭취 칼로리 및 영양성분, 음식별 섭취 칼로리 및 영양성분 확인)
-![음식 페이지](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/cdfb64bc-ccde-422d-93d0-526ac46f7313)
-![음식 상세정보 페이지](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/21e05c62-5444-4806-9f2a-6898aee33778)
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table border = "1px">

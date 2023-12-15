@@ -9,7 +9,7 @@
 <br>
 
 ## ⭐ 주요 기능
-<div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=PPTt&logoColor=white"/></a>
+<div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/PPT-B7472A?style=flat&logo=PPTt&logoColor=white"/></a>
 <a href="https://youtu.be/vuDowYswqug"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtubet&logoColor=white"/></a>
     
 </div>

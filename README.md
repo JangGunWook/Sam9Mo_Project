@@ -70,12 +70,20 @@
     </tr>
 </table>
 
+## ⚙ 데이터 수집(구조) 
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/045a7a7d-866c-40b6-9b2c-1c1d222d0074)
+<br>
+
 ## ⚙ 시스템 아키텍처(구조) 
-![서비스 아키텍쳐](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/3f67cf39-54d6-4b3d-9b02-ba3dae3be44b)
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/18af138d-e371-449a-a5fc-852ec93dc617)
 <br>
 
 ## 📌 SW유스케이스 및 서비스 흐름도
-![유스케이스](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/9d225f8f-2d88-4956-8741-4e7f54661f3d)
+두 가지 WEB/.Net 프로그램
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/4e7bc479-c3c9-445d-ae2c-037a66df6302)
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/a721efeb-8e49-4032-a3d5-245dcb3831e7)
+
+
 <br>
 
 ## 📌 ER다이어그램

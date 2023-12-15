@@ -130,12 +130,12 @@
     <td align="center"><strong>팀장 장건욱</strong></td>
     <td align="center"><strong>부팀장 최병훈</strong></td>
     <td align="center"><strong>장지웅</strong></td>
-    <td align="center"><strong>권용현</strong></td>
+    <td align="center"><strong>홍지수</strong></td>
     <td align="center"><strong>이나행</strong></td>
   </tr>
   <tr>
-    <td align="center"><b>Login Page<br>Back-End<br><br>Exercise Page<br>Ajax구현</b></td>
-    <td align="center"><b>Front 총괄<br>Back 총괄<br><br>MainPage<br>Front-End<br>Back-End</b></td>
+    <td align="center"><b>w<br>Back-End<br>주식 종목/증시 FastAPI<br>주식 데이터 Scheduling<br>알림 API</b></td>
+    <td align="center"><b>Kafka, Spring Boot 서버구축<br>Docker Container<br>모의투자 dot.net</b></td>
     <td align="center"><b>DietPage<br>Front-End<br>Back-End<br>Ajax구현</b></td>
     <td align="center"><b>Exercise DATA<br><br>ExercisePage<br>Front-End<br>Ajax구현</b></td>
     <td align="center"><b>Diet DATA<br><br>ExercisePage<br>Back-End</b></td>

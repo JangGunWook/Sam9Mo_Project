@@ -135,13 +135,16 @@
   </tr>
   <tr>
     <td align="center"><b>Back-End<br>주식 종목/증시 FastAPI<br>주식 데이터 Scheduling<br>알림 API</b></td>
-    <td align="center"><b>Kafka, Spring Boot 서버구축<br>Docker Container<br>모의투자 dot.net</b></td>
-    <td align="center"><b>DietPage<br>Front-End<br>Back-End<br>Ajax구현</b></td>
-    <td align="center"><b>Exercise DATA<br><br>ExercisePage<br>Front-End<br>Ajax구현</b></td>
-    <td align="center"><b>Diet DATA<br><br>ExercisePage<br>Back-End</b></td>
+    <td align="center"><b>Back-End, Server<br>Kafka, Spring Boot 서버구축<br>Docker Container<br>모의투자 dot.net</b></td>
+    <td align="center"><b>Back-End<br>News 수집 및 FastAPI구축<br>Chat-gpt를 이용한 실시간 감성분석<br>회원정보 API</b></td>
+    <td align="center"><b>Front-End<br>페이지 별 디자인 총괄<br>키워드,증권 자료 시각화<br>뉴스 페이지 총괄 구현</b></td>
+    <td align="center"><b>Front-End<br>주식 종목 알림 기능<br>증권 페이지 총괄 구현<br></b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/JangGunWook" target='_blank'>github</a></td>
+    <td align="center"><a href="https://blog.naver.com/zhsksrjsdnr"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
+    <a href="https://github.com/JangGunWook"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
+    </td>
+      
     <td align="center"><a href="https://github.com/sentimentalhoon" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/ImagineMaker" target='_blank'>github</a></td>
     <td align="center"><a href="https://github.com/YongHyeonKwon" target='_blank'>github</a></td>

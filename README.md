@@ -10,7 +10,7 @@
 
 ## ⭐ 주요 기능
 <div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a>
-<a href="[https://gamma.app/docs/rwly965l5egmmiw](https://youtu.be/vuDowYswqug)"><img src="https://img.shields.io/badge/microsoftyoutube-FF0000?style=flat&logo=youtubet&logoColor=white"/></a>
+<a href="https://youtu.be/vuDowYswqug"><img src="https://img.shields.io/badge/microsoftyoutube-FF0000?style=flat&logo=youtubet&logoColor=white"/></a>
     
 </div>
 *1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash<br>

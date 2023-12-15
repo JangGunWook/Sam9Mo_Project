@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReaLTaiizor", "ReaLTaiizor\ReaLTaiizor.csproj", "{2E57199F-0C03-4D03-9C2B-A4EE805FA173}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReaLTaiizor_CR", "ReaLTaiizor_CR\ReaLTaiizor_CR.csproj", "{F05303C4-58A3-461E-8551-58DFF740AFC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC2E7142-86C9-466A-A805-FF099FAAF1E5}"
+	ProjectSection(SolutionItems) = preProject
+		..\.editorconfig = ..\.editorconfig
+		..\global.json = ..\global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		GitHub|Any CPU = GitHub|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E57199F-0C03-4D03-9C2B-A4EE805FA173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E57199F-0C03-4D03-9C2B-A4EE805FA173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E57199F-0C03-4D03-9C2B-A4EE805FA173}.GitHub|Any CPU.ActiveCfg = GitHub|Any CPU
+		{2E57199F-0C03-4D03-9C2B-A4EE805FA173}.GitHub|Any CPU.Build.0 = GitHub|Any CPU
+		{2E57199F-0C03-4D03-9C2B-A4EE805FA173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E57199F-0C03-4D03-9C2B-A4EE805FA173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05303C4-58A3-461E-8551-58DFF740AFC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05303C4-58A3-461E-8551-58DFF740AFC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05303C4-58A3-461E-8551-58DFF740AFC6}.GitHub|Any CPU.ActiveCfg = GitHub|Any CPU
+		{F05303C4-58A3-461E-8551-58DFF740AFC6}.GitHub|Any CPU.Build.0 = GitHub|Any CPU
+		{F05303C4-58A3-461E-8551-58DFF740AFC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05303C4-58A3-461E-8551-58DFF740AFC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB12F1D-8C3B-492E-8590-D56D5B56FC2A}
+	EndGlobalSection
+EndGlobal

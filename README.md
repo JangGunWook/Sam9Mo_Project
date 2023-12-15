@@ -134,7 +134,7 @@
     <td align="center"><strong>이나행</strong></td>
   </tr>
   <tr>
-    <td align="center"><b>w<br>Back-End<br>주식 종목/증시 FastAPI<br>주식 데이터 Scheduling<br>알림 API</b></td>
+    <td align="center"><b>Back-End<br>주식 종목/증시 FastAPI<br>주식 데이터 Scheduling<br>알림 API</b></td>
     <td align="center"><b>Kafka, Spring Boot 서버구축<br>Docker Container<br>모의투자 dot.net</b></td>
     <td align="center"><b>DietPage<br>Front-End<br>Back-End<br>Ajax구현</b></td>
     <td align="center"><b>Exercise DATA<br><br>ExercisePage<br>Front-End<br>Ajax구현</b></td>

@@ -87,7 +87,7 @@
 <br>
 
 ## 📌 ER다이어그램
-![E-R 다이어그램](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/c24af80e-46f2-4c4b-aed4-0b091aea9b1d)
+### NoSQL
 <br>
 
 ## 🖥 화면 구성

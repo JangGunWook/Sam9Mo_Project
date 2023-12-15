@@ -1,21 +1,19 @@
 ## 📎 Sentimental Investment (팀명: Sam9Mo(삼성전자 90층들의 모임))
 
-![팀명](https://gamma.app/docs/rwly965l5egmmiw)
-
 ## 👀 서비스 소개
-* 서비스명:  Personal Traniner을 위한 PT고객 관리용 대시보드 
-* 서비스설명: Personal Traniner들이 담당 회원들의 운동 및 음식 정보를 시각화된 형태로 보고 
-회원들에게 효율적이고 체계적인 피드백을 줄 수 있는 서비스
+* 서비스명:  Sentimental Investment
+* 서비스 설명: 뉴스기사 감성분석 + 증권포털사이트 두 요소를 합쳐 주식 투자자들의 합리적인 투자를 돕고자 함 
 
 ## 📅 프로젝트 기간
-2022.09.06 ~ 2022.09.21 (2주)
+2023.11.15 ~ 2023.12.14 (14주)
 <br>
 
 ## ⭐ 주요 기능
-1. 회원의 일일 운동/식단 정보를 입력받아 시각화된 Flow Chart구현
-2. Main Page : 전체 회원과 트레이너의 Privacy Info확인 가능
-3. Diet Page :  금일 식사의 영영정보 및 calorie 섭취량 시각화 자료를 통해 확인 가능
-4. Exercise Page : 금일, 주별 운동별 calorie소모량을 시각화 자료를 통해 확인 가능
+<div><a href="https://blog.naver.com/zhsksrjsdnr"><img src="https://img.shields.io/badge/microsoftpowerpoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white"/></a></div>
+1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash
+2. Stock Page :  금일 식사의 영영정보 및 calorie 섭취량 시각화 자료를 통해 확인 가능
+3. News Page : 금일, 주별 운동별 calorie소모량을 시각화 자료를 통해 확인 가능
+4. 모의투자(dat.net) : 
 
 
 ## ⛏ 기술스택

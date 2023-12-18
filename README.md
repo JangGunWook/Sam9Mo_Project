@@ -11,10 +11,10 @@
 ## ⭐ 주요 기능
 <div><a href="https://gamma.app/docs/rwly965l5egmmiw"><img src="https://img.shields.io/badge/PPT-B7472A?style=flat&logo=PPTt&logoColor=white"/></a>
 <a href="https://youtu.be/vuDowYswqug"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtubet&logoColor=white"/></a>
-    
 </div>
-*1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash<br>
-*2. Stock Page : kospi,kosdaq 종목 확인 및 관심종목 추가, 실시간 차트 및 상세현황 확인가능, 알림기능  <br>
+
+1. Main Page : 실시간 증시차트, 실시간 뉴스종목,키워드 BubbleChart, 금일 뉴스에 가장 많이 언급된 키워드 Hash<br>
+2. Stock Page : kospi,kosdaq 종목 확인 및 관심종목 추가, 실시간 차트 및 상세현황 확인가능, 알림기능  <br>
 3. News Page : 5개 언론사(조,동,연,YTN,매)의 뉴스를 사회/정치/경제의 3가지 카테고리로 구분하여 뉴스와 감성분석 현황 확인<br>
 4. 모의투자(dat.net) : 모의 투자기능
 
@@ -171,9 +171,15 @@
 처리방식
 br>
 WebSocket -> Producer -> Kafka -> Consummer ->API -> Client
+https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4
+![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/03b78a99-eaf6-422a-afae-44ddc74416b5)
+
 
 * 해결책<br>
 asyne await를 사용하ㅕ ajax로 데이터를 수신이 완전히 이루어진 후 다음 구문이 실행되도록 수정
+<a href="https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4"
+    ><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
+</a>
 ![ajax 트러블 슈팅 해결](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/01d3721a-504a-417a-896c-981b6fae46f9)
  
 * 문제2<br>

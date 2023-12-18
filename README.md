@@ -162,7 +162,7 @@
 ## 🤾‍♂️ 실시간 WebSocket 활용방안
 <br>
   
-* 문제1<br>
+* 1<br>
 
 실시간으로 변화되는 데이터를 API를 통해 가져 올 수 없었고 다수의 요청이 발생할 경우 병렬현상으로 인한 문제가 발생할 수 있습니다.<br>
 그러한 문제를 한국투자증권의(KIS)OpenAPI와 Kafka를 활용하여 실시간으로 넘어온 데이터를 Stack Message형식으로 쌓아 쌓인 메세지를 전달하는 형식으로 하였고<br>
@@ -170,14 +170,18 @@
 <br>
 처리방식
 <br>
+<a href="https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4"
+    ><img src="https://img.shields.io/badge/velog-참고-20C997?style=flat&logo=velog&logoColor=white"/>
+</a>
+<br>
 WebSocket -> Producer -> Kafka -> Consummer ->API -> Client
 ![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/03b78a99-eaf6-422a-afae-44ddc74416b5)
 <br>
-<a href="https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4"
-    ><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
-</a>
-<br>
 
+
+* 2<br>
+시장이 끝난 이후 주식 정보를 제공할 수 없음으로 fake뉴스를 만들어 활용하였다.<br>
+Kafka는 이전에 사용된 메세지는 사라지는게 아니며 Stack형식으로 쌓인다. 그 쌓인 메세지의 시작지점을 지정하여 활용가능하다!<br>
 
 
 

@@ -159,7 +159,7 @@
   </tr>
 </table>
 
-## 🤾‍♂️ 트러블슈팅
+## 🤾‍♂️ 실시간 WebSocket 활용방안
 <br>
   
 * 문제1<br>
@@ -169,34 +169,25 @@
 동일한 데이터를 API를 여러곳에서 다수 요청해도 문제가 발생하지 않게 해결하였음<br>
 <br>
 처리방식
-br>
+<br>
 WebSocket -> Producer -> Kafka -> Consummer ->API -> Client
 https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4
 ![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/03b78a99-eaf6-422a-afae-44ddc74416b5)
-
-
-* 해결책<br>
-asyne await를 사용하ㅕ ajax로 데이터를 수신이 완전히 이루어진 후 다음 구문이 실행되도록 수정
+<brS>
 <a href="https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4"
     ><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>
 </a>
-![ajax 트러블 슈팅 해결](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/01d3721a-504a-417a-896c-981b6fae46f9)
- 
-* 문제2<br>
-음식 페이지 로딩 지연 발생
+<br>
 
-* 해결책<br>
-DB조회 시 SELECT 횟수를 줄임
 
-![sql 트러블 슈팅](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/d1d7e7ea-70bb-4813-9b92-c616dd84397f)
-![sql 트러블 슈팅 해결](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/74e46570-1236-42e5-b04b-a277e2499870)
+
 
 ## 🤾‍♂️ 개선사항
 * 시각자료 및 페이지 디자인 개선
 * 세분화된 기간 별 운동/식단 정보확인 기능
 
 
-## conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict | conflict
+## conflict 
 * 회원 별 섭취 식사 및  운동입력 자료 입력받기 기능 + 시각자료 공개
 * 회원과 트레이너와 소통할 수 있는 기능 구축(채팅/메세지 기능)
 * 빅데이터를 활용한 신체변화 추이 예상 기능 

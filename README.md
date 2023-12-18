@@ -171,7 +171,6 @@
 처리방식
 <br>
 WebSocket -> Producer -> Kafka -> Consummer ->API -> Client
-https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4
 ![image](https://github.com/JangGunWook/Sam9Mo_Project/assets/119468128/03b78a99-eaf6-422a-afae-44ddc74416b5)
 <br>
 <a href="https://velog.io/@so-eun/Kafka-%EB%8C%80%EC%9A%A9%EB%9F%89-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EC%B9%B4%ED%94%84%EC%B9%B4"

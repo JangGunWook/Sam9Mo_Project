@@ -163,8 +163,14 @@
 <br>
   
 * 문제1<br>
-비통기 통신 시 ajax로 수신한 데이터가 다음 구문에서 활용이 되지 않음
-![ajax 트러블 슈팅](https://github.com/2023-SMHRD-KDT-AI-2/healthcare_project/assets/143372283/f41c8681-6e05-4adc-9cd5-70b3b81bdb1a)
+
+실시간으로 변화되는 데이터를 API를 통해 가져 올 수 없었고 다수의 요청이 발생할 경우 병렬현상으로 인한 문제가 발생할 수 있습니다.<br>
+그러한 문제를 한국투자증권의(KIS)OpenAPI와 Kafka를 활용하여 실시간으로 넘어온 데이터를 Stack Message형식으로 쌓아 쌓인 메세지를 전달하는 형식으로 하였고<br>
+동일한 데이터를 API를 여러곳에서 다수 요청해도 문제가 발생하지 않게 해결하였음<br>
+<br>
+처리방식
+br>
+WebSocket -> Producer -> Kafka -> Consummer ->API -> Client
 
 * 해결책<br>
 asyne await를 사용하ㅕ ajax로 데이터를 수신이 완전히 이루어진 후 다음 구문이 실행되도록 수정
